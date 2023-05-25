@@ -1,0 +1,1 @@
+docker exec -it nodejs-fn-dev launcher /bin/bash
